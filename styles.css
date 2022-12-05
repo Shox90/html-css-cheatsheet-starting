@@ -1,0 +1,31 @@
+body {
+    font-family: Arial;
+    background-color: lightseagreen;
+}
+h1 {
+    text-align: center;
+    margin-top: 20px;
+}
+h2 {
+    text-align: center;
+    color: paleturquoise;
+}
+table{
+    border: 2px solid aquamarine;
+    width: 650px;
+    margin: 0 auto;
+    color: paleturquoise;
+}
+thead{
+    background-color: paleturquoise;
+    color: black;
+}
+td{
+    border-top: 1px solid paleturquoise;
+
+}
+.code{
+    font-family: monospace;
+    color: paleturquoise;
+    background-color: black;
+}
